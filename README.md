@@ -39,9 +39,13 @@
 样例输入               
 
 29
+
 28
+
 0
+
 样例输出
+
 Case1:3H 3L 2H
 
 Case2:impossible
