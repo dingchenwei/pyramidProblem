@@ -1,2 +1,5 @@
-# pyramidProblem
-final project of algorithms design course
+# 金字塔问题pyramidProblem
+数据分析与算法设计课大作业
+##组员：李梦圆 张雨欣 丁晨炜 王竞康 还有一位同学名字叫不上来。。。
+##分工：coder：王竞康 还有一位同学名字叫不上来。。。 tester：丁晨炜 reporter：李梦圆 张雨欣
+##程序介绍：留给coder写吧~
