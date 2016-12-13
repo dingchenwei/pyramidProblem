@@ -60,7 +60,8 @@ Case2:impossible
 
 #程序模块
 
-coder 写一下
+
+- 程序主要分成两块，一个是upbound函数，用于计算最多需要多少个金字塔完成任务，另一个是func函数，用DFS计算出能否用给定的石块数目完成任务，以及需要多少个不同的金字塔
 
 #P.S.
 - 使用github管理项目，[教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
